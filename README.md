@@ -1,15 +1,11 @@
-# Tractor Mod - A SMAPI Mod for Stardew Valley
-#### A mod for stardew valley: auto till, water, fertilize, and seed dirt tiles on your farm by simply walking over map tiles. 
+Tractor Mod is a SMAPI Mod for Stardew Valley. It adds a garage building which provides a tractor
+to help with your farm works. The tractor lets you quickly till dirt, sow seeds, fertilize soil,
+and water crop by simply walking over map tiles.
 
-**Modder:** PhthaloBlue  
-### Overview
-This mod adds a **Garage** building which provides **Tractor** to help with your farm works.  
-**Tractor** allows players to quickly till dirt, sow seeds, fertilize soil, and water crop by simply walking over map tiles.  
+**Modder:** PhthaloBlue
 
-# Notice:
-As I no longer actively work on this mod since January of 2017, this TractorMod version may be outdated by the time you get to this repo.  
-**However,** there is a [**community-maintained version here!**](https://github.com/Pathoschild/StardewCommunityMods) So you should be heading over there for the most updated and working version of TractorMod!
-# End of notice ---
+**This version of TractorMod is outdated, since I no longer actively work on it since January 2017.
+However, there's [a newer version available](http://www.nexusmods.com/stardewvalley/mods/1401)!**
 
 ### Latest Version: [v.3.2.1](https://github.com/lambui/StardewValleyMod_TractorMod/releases)
 #### Change Log **v3.2.1**, author [**Pathoschild**](https://github.com/Pathoschild):
